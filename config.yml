@@ -1,5 +1,5 @@
 my:
-	greetings : hello world
+	greetings: hello world
 	list: 
 		values: one,two,three
 
