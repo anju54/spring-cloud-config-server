@@ -8,3 +8,7 @@ vehicle:
  default:
   model: cross over
 duration: all
+my.greeting=Hello world
+my.list.values=One,Two,Three
+
+dbProperties={connectionString: 'http:/localhost:8080', userName: 'root'}
